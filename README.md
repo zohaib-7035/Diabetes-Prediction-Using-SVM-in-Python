@@ -1,14 +1,15 @@
 This **Diabetes Prediction project** utilizes a Support Vector Machine (SVM) model to predict whether a person has diabetes based on medical diagnostic features from the PIMA Indians Diabetes Dataset. The workflow includes data preprocessing, standardization, train-test splitting, and model training using a linear kernel SVM. The model's performance is evaluated using accuracy scores on both training and test sets. Additionally, a simple prediction system is implemented to allow users to input medical data and receive a diabetes prediction. This project demonstrates the application of machine learning in healthcare and can be further improved by experimenting with different models, optimizing hyperparameters, or deploying it as a web application.
 
-**** Technologies Used********
+**Technologies Used**
 
     Python 
     Pandas 
     NumPy 
     Scikit-learn
 
-** Features & Workflow 
-**
+** Features & Workflow **
+
+
 ✅ Data Loading – Reads the dataset using Pandas.
 
 ✅ Exploratory Data Analysis (EDA) – Analyzes dataset statistics and class distribution.
