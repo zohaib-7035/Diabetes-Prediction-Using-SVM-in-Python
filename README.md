@@ -7,7 +7,7 @@ This **Diabetes Prediction project** utilizes a Support Vector Machine (SVM) mod
     NumPy 
     Scikit-learn
 
-** Features & Workflow **
+**Features & Workflow**
 
 
 ✅ Data Loading – Reads the dataset using Pandas.
